@@ -2,7 +2,7 @@
 
 1. `git clone https://github.com/SamyMuhammad/files-crud-task.git files-crud`
 2. `files-crud`
-3. Install dependencies:
+3. Install dependencies using CLI:
 
    `composer install`
 
